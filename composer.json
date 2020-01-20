@@ -1,0 +1,12 @@
+{
+    "name": "mimmarcelo/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marcelo Júnior",
+            "email": "rokermarcelo@gmail.com"
+        }
+    ],
+    "require": {}
+}
