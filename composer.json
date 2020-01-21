@@ -8,5 +8,14 @@
             "email": "rokermarcelo@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "6.3",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^5.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "mimmarcelo\\BuscadorDeCursos\\": "src/"
+        }
+    }
 }
